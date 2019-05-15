@@ -15,7 +15,7 @@ This program simulates a Scrabble Helper (Scrabbler) that has the following feat
   group of letters.
 7. Asks user to enter a letter and then show all words containing the letters “X” or “Z” and
   the input tile.
-8. Implements a GUI-based Scrabbler Helper.
+8. Implements a GUI-based Scrabble Helper.
 
 The program is comprised of three files:
  - Scrabbler.py
